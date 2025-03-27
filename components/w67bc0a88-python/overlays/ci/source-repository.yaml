@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: w67bc0a88-python-repository
+spec:
+  url: https://github.com/tnevrlka-rhtap/w67bc0a88-python
